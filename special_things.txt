@@ -1,0 +1,1 @@
+Clear bash shell terminal from PHP: system("printf '\ec'");
