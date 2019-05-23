@@ -1,3 +1,4 @@
+TYPE,CONTEXT,MOD,X,FUNC,METH_TO
 func,ext,ctype,ctype,ctype_alnum,
 func,ext,ctype,ctype,ctype_alpha,
 func,ext,ctype,ctype,ctype_cntrl,
